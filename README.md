@@ -18,7 +18,7 @@ server为后端文件，基于PHP开发
 ![我的图片](./screenImg/serverUrl.png)
 4.  点击确认后，数据库会自动进行初始化
 ![我的图片](./screenImg/yes.png)
-5.  初始化成功后，可删除index.html文件和dbinfo.php文件防止恶意数据库初始化，然后即可进行前端环境搭建
+5.  初始化成功后，可删除index.html文件文件防止恶意数据库初始化，然后即可进行前端环境搭建
 
 ##### 前端环境
 1.  将clubWeb文件夹放在服务器目录下
